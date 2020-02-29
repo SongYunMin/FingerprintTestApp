@@ -19,6 +19,9 @@ public class MainActivity extends AppCompatActivity {
                 super.onAuthenticationError(errorCode, errString);
             }
 
+
+
+            // wqewqjelqwhekj
             @Override
             public void onAuthenticationSucceeded(@NonNull BiometricPrompt.AuthenticationResult result) {
                 super.onAuthenticationSucceeded(result);
