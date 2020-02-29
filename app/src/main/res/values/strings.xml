@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FingerprintTestApp</string>
+    <string name="str_finger_print">Finger</string>
+    <string name="msg_subtitile_finger_print">Method</string>
+    <string name="msg_btn_finger_print">print</string>
+    <string name="str_cancle">취소</string>
+    <string name="str_text">Exit</string>
+
+</resources>
